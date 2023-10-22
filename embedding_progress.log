@@ -162,3 +162,16 @@ file: dataset/mined-comments-25stars-25prs-JavaScript.json/repo-split\1-plotly@p
 2023-10-21 19:53:47,870 - WARNING - Truncated diff from 47685 to 34165 bytes.
 2023-10-21 19:54:44,440 - INFO - Logging: dataset/mined-comments-25stars-25prs-JavaScript.json/repo-split\1-plotly@plotly.js.json processed
 2023-10-21 20:02:42,378 - INFO - Waiting for 30 seconds. Reponse: {"error":"Model BAAI/bge-small-en-v1.5 is currently loading","estimated_time":20.0}
+2023-10-21 20:14:33,086 - INFO - Waiting for 30 seconds. Reponse: {"error":"Model BAAI/bge-small-en-v1.5 is currently loading","estimated_time":20.0}
+2023-10-21 20:15:41,978 - WARNING - Warning: Metadata size is greater than 40960 bytes at 43186 bytes at vector index: 520.
+file: dataset/mined-comments-25stars-25prs-JavaScript.json/repo-split\2-vatesfr@xen-orchestra.json.
+2023-10-21 20:15:41,979 - WARNING - Truncated diff from 40533 to 41350 bytes.
+2023-10-21 20:15:41,979 - WARNING - Warning: Metadata size is greater than 40960 bytes at 48337 bytes at vector index: 521.
+file: dataset/mined-comments-25stars-25prs-JavaScript.json/repo-split\2-vatesfr@xen-orchestra.json.
+2023-10-21 20:15:41,979 - WARNING - Truncated diff from 45358 to 36525 bytes.
+2023-10-21 20:15:41,979 - WARNING - Warning: Metadata size is greater than 40960 bytes at 49108 bytes at vector index: 522.
+file: dataset/mined-comments-25stars-25prs-JavaScript.json/repo-split\2-vatesfr@xen-orchestra.json.
+2023-10-21 20:15:41,979 - WARNING - Truncated diff from 46085 to 35805 bytes.
+2023-10-21 20:15:41,979 - WARNING - Warning: Metadata size is greater than 40960 bytes at 69657 bytes at vector index: 523.
+file: dataset/mined-comments-25stars-25prs-JavaScript.json/repo-split\2-vatesfr@xen-orchestra.json.
+2023-10-21 20:15:41,979 - WARNING - Truncated diff from 65535 to 16303 bytes.
